@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @folusoabi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Foluso Abisoye
+- 👀 I’m interested in Open Source, DevRel, Technical Writing, Web Dev and Game Development.
+- 🌱 I’m currently learning C# and Unity
+- 💞️ I’m looking to collaborate on any Open Source Community Project
+- 📫 How to reach me @folusoabisoye on Twitter.
 
 <!---
 folusoabi/folusoabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
