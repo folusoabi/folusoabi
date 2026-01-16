@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Foluso
-- 👀 I’m interested in Open Source, Mobile Dev, Technical Writing, Web Dev and Game Development.
+- 👀 I’m interested in Physics,Open Source, Mobile Dev, Technical Writing, Web Dev, Game Development and embedded systems.
 - 🌱 Typescript,C# and Unity
 - 💞️ I’m looking to collaborate on any Open Source Community Project
 - 📫 How to reach me @folusoabisoye on Twitter.
